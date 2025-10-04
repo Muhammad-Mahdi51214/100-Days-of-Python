@@ -1,0 +1,7 @@
+1 arqam Muhammad Arqam arqam@gmail.com 1234 custumer
+2 taha Taha Minhas taha@gmail.com 1234 custumer
+3 zain Zain Watoo zain@gmail.comm 1234 custumer
+4 abdullah Abdullah Abbasi abdullah@gmail.com 1234 custumer
+5 shakeel Muhammad Shakeel shakeel@gmail.com 1234 custumer
+6 mehdi Ali Mehdi ali@gmail.com 1234 custumer
+8 khan Chachu Khan' khan@gmail.com 1234 custumer
